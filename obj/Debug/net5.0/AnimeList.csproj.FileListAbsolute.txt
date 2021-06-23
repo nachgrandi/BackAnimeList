@@ -1,0 +1,122 @@
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\appsettings.json
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\AnimeList.exe
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\AnimeList.deps.json
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\AnimeList.runtimeconfig.json
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\AnimeList.runtimeconfig.dev.json
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\AnimeList.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\ref\AnimeList.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\AnimeList.pdb
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.csprojAssemblyReference.cache
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.AssemblyInfoInputs.cache
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.AssemblyInfo.cs
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.csproj.CoreCompileInputs.cache
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\staticwebassets\AnimeList.StaticWebAssets.Manifest.cache
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\staticwebassets\AnimeList.StaticWebAssets.xml
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\scopedcss\bundle\AnimeList.styles.css
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.RazorTargetAssemblyInfo.cache
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.csproj.CopyComplete
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\ref\AnimeList.dll
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.pdb
+C:\Users\NACHO\Downloads\Clase13\Clase13\obj\Debug\net5.0\AnimeList.genruntimeconfig.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.csprojAssemblyReference.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.GeneratedMSBuildEditorConfig.editorconfig
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.AssemblyInfoInputs.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.AssemblyInfo.cs
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.csproj.CoreCompileInputs.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.MvcApplicationPartsAssemblyInfo.cs
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.MvcApplicationPartsAssemblyInfo.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\ref\AnimeList.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.pdb
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\appsettings.Development.json
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\appsettings.json
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\AnimeList.exe
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\AnimeList.deps.json
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\AnimeList.runtimeconfig.json
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\AnimeList.runtimeconfig.dev.json
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\AnimeList.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\ref\AnimeList.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\AnimeList.pdb
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Humanizer.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\staticwebassets\AnimeList.StaticWebAssets.Manifest.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\staticwebassets\AnimeList.StaticWebAssets.xml
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\scopedcss\bundle\AnimeList.styles.css
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.RazorTargetAssemblyInfo.cache
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.csproj.CopyComplete
+H:\clase miercoles\TrabajoPractico1\BackAnimeList\obj\Debug\net5.0\AnimeList.genruntimeconfig.cache
