@@ -9,6 +9,7 @@ namespace AnimeList.Models
     public partial class AnimeListDbContext : DbContext
     {
         public DbSet<Anime> Animes {get;set;}
+        public DbSet<Users> Users {get;set;}
         public AnimeListDbContext()
         {
         }
