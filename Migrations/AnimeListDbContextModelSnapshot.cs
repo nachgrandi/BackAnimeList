@@ -33,6 +33,9 @@ namespace AnimeList.Migrations
                     b.Property<DateTime?>("EndYear")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("ImageLink")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("StartYear")
                         .HasColumnType("datetime2");
 
@@ -42,6 +45,30 @@ namespace AnimeList.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Animes");
+                });
+
+            modelBuilder.Entity("AnimeList.Models.Users", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserRole")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
                 });
 #pragma warning restore 612, 618
         }

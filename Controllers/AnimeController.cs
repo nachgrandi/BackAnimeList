@@ -2,6 +2,7 @@ using AnimeList.Models;
 using AnimeList.Repository;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AnimeList.Controllers
 {   
@@ -13,6 +14,7 @@ namespace AnimeList.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize] 
         public virtual ActionResult Delete(int id){
             if(!ModelState.IsValid) return BadRequest();
             Anime anime = new Anime() {Id = id};
